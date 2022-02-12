@@ -1,2 +1,4 @@
 # onboarding-LaunchX
-Formacion de Developers
+Formación de Developers
+
+![Header](https://github.com/Vickmagar/onboarding-LaunchX/blob/main/images/Onboarding.gif)
